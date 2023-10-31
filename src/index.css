@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.h1Todo {
+  color: white;
+} 
+
+body {
+  background-color: rgb(16, 16, 132);
+  text-align: center;
+}
+
+.inputTodo {
+  border: 0px;
+  border-radius: 3px;
+  width: 150px;
+  height: 25px;
+  padding-left: 10px;
+  color: grey;
+}
+
+.buttonTodo {
+  border-radius: 3px;
+  border: 0px;
+  width: 50px;
+  height: 27px;
+  background-color: wheat;
+  color: rgb(27, 26, 68);
+}
+
+.inputForm {
+  margin-right: 10px;
+}
